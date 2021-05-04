@@ -1,0 +1,54 @@
+body{
+    background-image: url("../Image/card-soft-template-paper-report.png");
+    width: 100%;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+
+.NavBar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 60px;
+    background: #FFFFFF;
+}
+
+.gal {
+    width: 216px;
+    height: 90px;
+    left: calc(50% - 216px/2 - 585px);
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 90px;
+
+    align-items: center;
+    letter-spacing: 0.01em;
+
+    color: #A20000;
+
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+.axy {
+    width: 216px;
+    height: 90px;
+    left: calc(50% - 216px/2 - 585px);
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 90px;
+
+    align-items: center;
+    letter-spacing: 0.01em;
+
+    color: #000000;
+
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+}
