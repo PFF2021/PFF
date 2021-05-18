@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+.bgcol {
+    position: absolute;
+    width: 50%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #AD0101;
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 1.1rem;
+    left: 0;
+    color: #887A7A;
+}
+
+.log {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.1rem;
+    line-height: 33px;
+    align-items: center;
+    text-align: center;
+    text-decoration-line: underline;
+    color: black;
+}
+
+label {
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+
+.info {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.1rem;
+    line-height: 35px;
+    align-items: center;
+    text-transform: uppercase;
+    margin-right: 50px;
+}
+
+#btn1 {
+    width: 100px;
+    height: 42.02px;
+
+    border: 1px;
+    background: #000000;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    border-radius: 12px;
+}
+
+#txbox1,
+#txbox2,
+#mail1,
+#pass1,
+#birth1 {
+    width: 280px;
+    height: 30px;
+
+    background: rgb(196, 196, 196);
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+
+table {
+    position: relative;
+    top: 90px;
+    left: 300px;
+    line-height: 50px;
+}
